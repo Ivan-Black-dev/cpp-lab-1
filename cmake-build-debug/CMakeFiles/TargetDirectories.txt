@@ -1,0 +1,3 @@
+C:/Users/ivan/Desktop/HSE/LP/cpp-lab-1/cmake-build-debug/CMakeFiles/cpp_lab_1.dir
+C:/Users/ivan/Desktop/HSE/LP/cpp-lab-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ivan/Desktop/HSE/LP/cpp-lab-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
